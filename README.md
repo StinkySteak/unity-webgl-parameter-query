@@ -1,5 +1,5 @@
 ﻿# WebGL Parameter Query
-WebGL Parameter Query allow developers or users launch their webGL app with parameter similarly to native apps
+WebGL Parameter Query allow developers or users launch their webGL app with parameter similarly to native apps. The query will returns as a JSON
 
 **Windows**
 ```
