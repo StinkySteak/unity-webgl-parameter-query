@@ -11,25 +11,9 @@ myUnityGame.exe -debug -resetSettings
 https://agar.io?debug=true&resetSettings=true
 ```
 
-## Installation
-#### Install via git URL (Unity Package Manager [UPM])
-```
-https://github.com/StinkySteak/unity-webgl-parameter-query.git
-```
-
-## Compatibility?
-#### Tested on
-| Unity Version 	| Status 	| 
-|---------------	|--------	|
-| 2022.3        	| Passed    |
-| 2021.3        	| Passed    |
-
-Major unity version has different emscripten runtime, please refer to https://docs.unity3d.com/Manual/webgl-native-plugins-with-emscripten.html for more info.
-
-
 ## Example Use?
 
-Launch URL
+### Launch URL
 ```
 https://agar.io?debug=true
 ```
@@ -44,3 +28,18 @@ public class LaunchSettings
 	public bool Debug;
 }
 ```
+
+## Installation
+#### Install via git URL (Unity Package Manager [UPM])
+```
+https://github.com/StinkySteak/unity-webgl-parameter-query.git
+```
+
+## Compatibility
+#### Tested on
+| Unity Version 	| Status 	| 
+|---------------	|--------	|
+| 2022.3        	| Passed    |
+| 2021.3        	| Passed    |
+
+Major unity version has different emscripten runtime, please refer to https://docs.unity3d.com/Manual/webgl-native-plugins-with-emscripten.html for more info.
