@@ -10,6 +10,7 @@ myUnityGame.exe -debug -resetSettings
 ```
 https://agar.io?debug=true&resetSettings=true
 ```
+Note: Some web games uses embedding, such as itch.io, thus It will returns the main url such as `https://html-classic.itch.zone/html/111111`. You have to use that url and put your query there to make it work
 
 ## Example Use?
 
